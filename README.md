@@ -1,4 +1,4 @@
-# The VBA of Wall Street
+# The VBA of Stock Market Analysis
 
 ## Background
 
